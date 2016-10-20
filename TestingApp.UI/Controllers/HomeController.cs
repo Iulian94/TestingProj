@@ -16,6 +16,8 @@ namespace TestingApp.UI
 
         public virtual ActionResult About()
         {
+
+            //test - adina
             ViewBag.Message = "Your application description page.";
 
             return View();
